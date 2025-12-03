@@ -56,7 +56,7 @@ node server.js
 
 ### Start Frontend (Terminal 2):
 ```powershell
-cd C:\Users\DT\Desktop\mahad\ai-sentiment-app\frontend
+cd C:\Users\DT\Desktop\mahad\ai-sentiment-app\Frontend
 npm run dev
 ```
 
@@ -92,7 +92,7 @@ ai-sentiment-app/
 │   ├── data/                # Training data
 │   ├── server.js            # Main server file
 │   └── package.json
-├── frontend/
+├── Frontend/
 │   ├── src/
 │   │   ├── components/      # React components
 │   │   ├── services/        # API calls
@@ -106,7 +106,7 @@ ai-sentiment-app/
 
 ## 🎓 What You Built
 
-- **Full-Stack Application**: React frontend + Node.js backend
+- **Full-Stack Application**: React Frontend + Node.js backend
 - **AI/ML Integration**: TensorFlow.js for sentiment analysis
 - **RESTful API**: Express.js backend with proper routing
 - **Real-time Analysis**: Instant sentiment predictions
@@ -123,14 +123,14 @@ node server.js
 
 ### Frontend won't start:
 ```powershell
-cd frontend
+cd Frontend
 npm install
 npm run dev
 ```
 
 ### Port already in use:
 - Backend: Change PORT in backend/server.js
-- Frontend: Change port in frontend/vite.config.js
+- Frontend: Change port in Frontend/vite.config.js
 
 ## 📚 Next Steps
 

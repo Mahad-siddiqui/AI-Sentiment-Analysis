@@ -20,25 +20,25 @@ npm install
 
 ### Start Frontend Development Server
 ```powershell
-cd frontend
+cd Frontend
 npm run dev
 ```
 
 ### Build Frontend for Production
 ```powershell
-cd frontend
+cd Frontend
 npm run build
 ```
 
 ### Preview Production Build
 ```powershell
-cd frontend
+cd Frontend
 npm run preview
 ```
 
 ### Install Frontend Dependencies
 ```powershell
-cd frontend
+cd Frontend
 npm install
 ```
 
@@ -51,7 +51,7 @@ cd C:\Users\DT\Desktop\mahad\ai-sentiment-app\backend
 node server.js
 
 # Terminal 2 - Frontend (open new terminal)
-cd C:\Users\DT\Desktop\mahad\ai-sentiment-app\frontend
+cd C:\Users\DT\Desktop\mahad\ai-sentiment-app\Frontend
 npm run dev
 ```
 
