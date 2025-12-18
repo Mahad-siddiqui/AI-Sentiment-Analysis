@@ -1,4 +1,4 @@
-# AI Sentiment Analysis App
+# AI Sentiment Analysis App  :-)
 
 A full-stack AI application that uses TensorFlow.js to analyze text sentiment in real-time.
 
