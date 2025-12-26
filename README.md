@@ -15,7 +15,7 @@ A full-stack AI application that uses TensorFlow.js to analyze text sentiment in
 ```
 ai-sentiment-app/
 ├── backend/          # Node.js + Express + TensorFlow.js
-├── frontend/         # React + Vite
+├── Frontend/         # React + Vite
 └── shared/           # Shared AI model code
 ```
 
@@ -29,7 +29,7 @@ npm install
 
 ### Frontend Setup
 ```bash
-cd frontend
+cd Frontend
 npm install
 ```
 
@@ -44,7 +44,7 @@ Server runs on: http://localhost:5000
 
 ### Start Frontend Server (Terminal 2)
 ```bash
-cd frontend
+cd Frontend
 npm run dev
 ```
 Frontend runs on: http://localhost:3000
